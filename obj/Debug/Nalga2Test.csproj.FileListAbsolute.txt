@@ -1,0 +1,8 @@
+C:\Users\amerh\source\repos\Nalga2Test\bin\Debug\Nalga2Test.exe.config
+C:\Users\amerh\source\repos\Nalga2Test\bin\Debug\Nalga2Test.exe
+C:\Users\amerh\source\repos\Nalga2Test\bin\Debug\Nalga2Test.pdb
+C:\Users\amerh\source\repos\Nalga2Test\obj\Debug\Nalga2Test.csproj.AssemblyReference.cache
+C:\Users\amerh\source\repos\Nalga2Test\obj\Debug\Nalga2Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\amerh\source\repos\Nalga2Test\obj\Debug\Nalga2Test.csproj.CoreCompileInputs.cache
+C:\Users\amerh\source\repos\Nalga2Test\obj\Debug\Nalga2Test.exe
+C:\Users\amerh\source\repos\Nalga2Test\obj\Debug\Nalga2Test.pdb
